@@ -1,4 +1,5 @@
 //Anagram(GFG)
+//they contain the exact same characters with the same frequencies, regardless of their order
 
 class Solution {
     public static boolean areAnagrams(String s1, String s2) {
